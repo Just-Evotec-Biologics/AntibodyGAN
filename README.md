@@ -7,6 +7,7 @@ A python implementation of Antibody-GAN: a Generative Adversarial Network (GAN) 
 BioRxiv Preprint:
 https://www.biorxiv.org/content/10.1101/2020.04.12.024844v1
 
+Code is currently password protected. To be released upon journal acceptance.
 
 ### System Requirements ###
 
